@@ -62,7 +62,7 @@
     height: 71%;
 }
 .old-watch{
-    height: 50%;
+    height: 70%;
 }
 
 /** end personal interests styles **/
@@ -70,7 +70,7 @@
 /**start selfie and bio styles **/
 .about-container{
     height: calc(100%/2);
-    margin-top: 20px;
+    margin-top: 50px;
 }
 .about-container:after{
     content: "";
