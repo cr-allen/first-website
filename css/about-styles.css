@@ -13,12 +13,19 @@
 .nav-bar {
     float: right;
 }
-.a:hover{
+.a{
     text-decoration: none;
 }
 .a:link{
     color: #699c7;
     text-decoration: none;
+}
+.nav-text{
+    text-decoration: none;
+    color:#2f6593;
+}
+.nav-text:hover{
+    text-decoration: overline;
 }
 /** end nav styles **/
 /** begin main content styles **/
@@ -71,6 +78,7 @@
 .about-container{
     height: calc(100%/2);
     margin-top: 50px;
+    margin-bottom: 50px;
 }
 .about-container:after{
     content: "";
@@ -87,8 +95,8 @@
     float: left;
 }
 .selfie{
-    height: 50%;
-    margin: 10px;
+    width: 80%;
+    margin-left: 100px;
 }
 .bio-text{
     text-align: center;
@@ -98,8 +106,8 @@
     color: #2f6593;
 }
 /**end selfie and bio text styles**/
-
 /** end main content styles **/
+
 /** begin footer styles **/
 footer{
     margin: 0px auto;

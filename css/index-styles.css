@@ -13,12 +13,19 @@
 .nav-bar {
     float: right;
 }
-.a:hover{
+.a{
     text-decoration: none;
 }
 .a:link{
     color: #699c7;
     text-decoration: none;
+}
+.nav-text{
+    text-decoration: none;
+    color:#2f6593;
+}
+.nav-text:hover{
+    text-decoration: overline;
 }
 /** end nav styles **/
 
