@@ -27,9 +27,12 @@
 .nav-text:hover{
     text-decoration: overline;
 }
+.contact{
+    margin-right: 20px;
+}
 /** end nav styles **/
 
-/** begin history content styles **/
+/** begin main content styles **/
 
 /** end main content styles **/
 
