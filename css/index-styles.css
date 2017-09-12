@@ -54,6 +54,10 @@
 .photos{
     width: 100%;
 }
+.photos-mash{
+    width: 50%;
+    margin-left: 310px;
+}
 .bullets{
     color: #2f6593;
     font-family: 'Raleway', sans-serif;
@@ -68,10 +72,10 @@
 }
 .text-link:hover{
    font-family: 'Bitter', serif; 
-   color: #2f6593;
+   color: #76bcef;
 }
 .text-link{
-    color: #76bcef;
+    color: #6990c7;
      text-decoration: none;
 }
 /** end main content styles **/
