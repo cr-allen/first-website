@@ -33,7 +33,46 @@
 /** end nav styles **/
 
 /** begin main content styles **/
-
+.main-content{
+    margin: 5%;
+}
+.title{
+    color: #2f6593;
+    font-family: 'Bitter', serif;   
+    text-decoration: underline;
+    text-align: center;
+}
+.subtitles{
+    color: #2f6593;
+    font-family: 'Bitter', serif;   
+    text-decoration: underline;
+}
+.photos-box.center{
+    width:50%;
+    margin: 0 auto;
+}
+.photos{
+    width: 100%;
+}
+.bullets{
+    color: #2f6593;
+    font-family: 'Raleway', sans-serif;
+    margin-left: 15px;
+    font-size: large;
+    line-height: 25px;
+}
+.directions{
+    margin: 30px;
+    line-height: 25px;
+    font-size: large;
+}
+.text-link:hover{
+   color: #76bcef;
+   text-decoration: none;
+}
+.text-link{
+    color: #2f6593;
+}
 /** end main content styles **/
 
 /** begin footer styles **/
