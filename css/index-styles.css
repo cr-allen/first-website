@@ -67,11 +67,12 @@
     font-size: large;
 }
 .text-link:hover{
-   color: #76bcef;
-   text-decoration: none;
+   font-family: 'Bitter', serif; 
+   color: #2f6593;
 }
 .text-link{
-    color: #2f6593;
+    color: #76bcef;
+     text-decoration: none;
 }
 /** end main content styles **/
 
